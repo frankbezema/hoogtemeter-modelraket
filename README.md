@@ -9,7 +9,7 @@ Simpele hoogtemeter voor modelraketten
 ##  Benodigde onderdelen
 - arduino pro mini (3.3V, 8MHz)
 - USB - TTL converter voor programmeren, 3.3V
-- BMP280 druk/hoogte meter I2C, 3.3V
+- BME280 druk/hoogte meter I2C, 3.3V
 - I2C OLED 0.91 inch 128x32 schermpje
 - LiPo batterijtje (3.7V > 200 mAh)
 - gaatjes print, 0.1 inch gaatjes, vertind, stevig printplaat
