@@ -25,7 +25,7 @@ Simpele hoogtemeter voor modelraketten
   Als je soldeert, doe dit in een geventileerde ruimte
 
   Aansluitingen:
-  3.7V kan direct op pin vcc van arduino
-  sensors op i2c pinnen, sda en scl  
-
- 
+  3.7V kan direct op pin raw van arduino
+  sensor en display op i2c pinnen, sda(A5)en scl(A4)  
+  Vcc van arduino naar + van sensor en display
+  Gnd naar - van sensor en display
